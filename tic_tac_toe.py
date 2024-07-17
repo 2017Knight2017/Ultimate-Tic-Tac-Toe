@@ -1,6 +1,7 @@
 import pygame
 from math import tau
 from itertools import chain
+from sys import exit
 
 def is_win(arr):
 	a = arr[1][1]
@@ -56,7 +57,7 @@ selected = [-1, -1]
 while True:
 	for event in pygame.event.get():
 		if event.type == pygame.QUIT:
-			quit()
+			exit()
 
 	match current_phase:
 		case "init":
