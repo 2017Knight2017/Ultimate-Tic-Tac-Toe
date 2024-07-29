@@ -4,7 +4,7 @@
 
 ![](tic_tac_toe1.gif)
 
-Ultimate Tic-Tac-Toe is rethinking of the
+Ultimate Tic-Tac-Toe is a rethinking of the
 classic boring 3×3 tic-tac-toe. In order 
 to win, you must be able to think 
 outside the box and not to obsess over 
